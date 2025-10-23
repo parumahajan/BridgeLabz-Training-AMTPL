@@ -9,8 +9,7 @@ Downloaded Visual Studio, Started with .NET, and read its documentation
 **What I Will Do Next:** 
 Learn the complete fundamentals of .NET, and will practice C#
 
-**Issues Faced:**  
-None
+**Issues Faced:** None
 
 # 15th October, 2025
 **What I’ve Done:** 
