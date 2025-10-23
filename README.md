@@ -1,6 +1,6 @@
 # BridgeLabz-Training-AMTPL
 
-In this, I'll keep updating my learnings which I gain while attending the training from BridgeLabz.
+In this Readme documentation, I'll keep updating my learnings which I gain while attending the training from BridgeLabz.
 
 # 14th October, 2025
 **What I’ve Done:** 
