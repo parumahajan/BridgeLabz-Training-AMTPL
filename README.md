@@ -19,8 +19,7 @@ Today, I learned the fundamentals of Git and GitHub, and practiced its commands 
 **What I Will Do Next:** 
 I will learn more about it, and will practice the commands.
 
-**Issues Faced:** 
-None
+**Issues Faced:** None
 
 
 # 23rd October, 2025
