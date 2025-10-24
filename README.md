@@ -36,4 +36,10 @@ After that, it worked.
 
 
 # 24th October, 2025
+**What I’ve Done:**
+Today, I went through documentation of C#. I brushed-up through the concepts which I already knew, and I also learnt many new concepts like final, sealed, and internal (access specifier) in C#.
 
+**What I Will Do Next:**
+I will completely read the documentation of C#, and will practice some questions of Arrays on Leetcode.
+
+**Issues Faced:** None
