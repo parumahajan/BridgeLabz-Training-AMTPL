@@ -43,3 +43,13 @@ Today, I went through documentation of C#. I brushed-up through the concepts whi
 I will completely read the documentation of C#, and will practice some questions of Arrays on Leetcode.
 
 **Issues Faced:** None
+
+
+# 25th October, 2025
+**What I’ve Done:** 
+Implemented Snake and Ladder Problem using C#.
+
+**What I Will Do Next:**
+Practice more coding in C#, to make my hand in it.
+
+**Issues Faced:** None
