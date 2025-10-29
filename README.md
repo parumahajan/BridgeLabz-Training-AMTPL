@@ -65,6 +65,13 @@ Will see how to practically implement OOPS within C#.
 **Issues Faced:** None
 
 # 29th October, 2025
+**What I’ve Done:**
+I implemented Inheritance today in C#. 
 
+**What I Will Do Next:**
+I will implement Encapsulation, Polymorphism, and Abstraction in C#.
+
+**Issues Faced:**
+There were some errors occurring during compilation. I had to figure out the reason why they were occurring, and resolve them.
 
 
