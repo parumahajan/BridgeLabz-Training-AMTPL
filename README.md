@@ -56,4 +56,11 @@ Practice more coding in C#, to make my hand in it.
 
 
 # 27th October, 2025
+**What I’ve Done:** 
+Revised concepts of OOPS, but this time with respect to C#.
+
+**What I Will Do Next:**
+Will see how to practically implement OOPS within C#.
+
+**Issues Faced:** None
 
