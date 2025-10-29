@@ -66,7 +66,7 @@ Will see how to practically implement OOPS within C#.
 
 # 29th October, 2025
 **What I’ve Done:**
-I implemented Inheritance today in C#. 
+I implemented Inheritance, and the types of inheritance in C# today. 
 
 **What I Will Do Next:**
 I will implement Encapsulation, Polymorphism, and Abstraction in C#.
