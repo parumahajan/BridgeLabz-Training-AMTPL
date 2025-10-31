@@ -75,3 +75,10 @@ I will implement Encapsulation, Polymorphism, and Abstraction in C#.
 There were some errors occurring during compilation. I had to figure out the reason why they were occurring, and resolve them.
 
 # 30th October, 2025
+**What I’ve Done:**
+Today, I implemented all types of inheritance in OOPS within Visual Studio in C#. I also created pushed my code to the "feature/oops" branch of my GitHub repository.
+
+**What I Will Do Next:**
+I will go through the pdf provided by sir for Polymorphism and Abstraction, and will implement them in C#.
+
+**Issues Faced:** Some errors while compiling, but got resolved later on.
