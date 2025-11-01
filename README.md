@@ -82,3 +82,12 @@ Today, I implemented all types of inheritance in OOPS within Visual Studio in C#
 I will go through the pdf provided by sir for Polymorphism and Abstraction, and will implement them in C#.
 
 **Issues Faced:** Some errors while compiling, but got resolved later on.
+
+# 31st October, 2025
+**What I’ve Done:**
+Implemented OOPS within C# (specifically encapsulation and abstraction).
+
+**What I Will Do Next:**
+Practice more OOPS concepts, and will practically implement them. Will also implement polymorphism and its types.
+
+**Issues Faced:** None
