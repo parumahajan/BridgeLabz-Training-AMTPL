@@ -93,3 +93,18 @@ Practice more OOPS concepts, and will practically implement them. Will also impl
 **Issues Faced:** None
 
 # 1st November, 2025
+**What I’ve Done:**
+Practiced polymorphism - compile time, and run-time in C#.
+
+**What I Will Do Next:**
+Practice more OOPS concepts, and will practically implement them.
+
+**Issues Faced:** None
+
+# 3rd November, 2025
+**What I Have Done:**I studied about exceptions today, and learnt how try, catch, and final can be used.
+
+**What I Will Do Next:**
+Will learn more about exceptions, and will implement it in Address Book Problem.
+
+**Issues Faced:** None
