@@ -102,9 +102,20 @@ Practice more OOPS concepts, and will practically implement them.
 **Issues Faced:** None
 
 # 3rd November, 2025
-**What I Have Done:**I studied about exceptions today, and learnt how try, catch, and final can be used.
+**What I Have Done:**
+I studied about exceptions today, and learnt how try, catch, and final can be used.
 
 **What I Will Do Next:**
 Will learn more about exceptions, and will implement it in Address Book Problem.
+
+**Issues Faced:** None
+
+
+# 4th November, 2025
+**What I Have Done:**
+I implemented Address Book Problem today.
+
+**What I Will Do Next:**
+I will revise the concepts that I have learnt till now.
 
 **Issues Faced:** None
