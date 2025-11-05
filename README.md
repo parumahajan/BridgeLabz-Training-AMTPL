@@ -119,3 +119,13 @@ I implemented Address Book Problem today.
 I will revise the concepts that I have learnt till now.
 
 **Issues Faced:** None
+
+**5th November, 2025**
+**What I Have Done:**
+Tried to implement Employee Management System. Was able to partially implement it.
+
+**What I Will Do Next:**
+I will focus more on the implementation part, and practice as much as I can.
+
+**Issues Faced:** 
+I faced issues while implementing the 3rd task.
