@@ -153,11 +153,82 @@ Will learn more about it, and how we can implement it practically.
 
 # 8th November, 2025
 **What I have done:**
-Completed Non-Generic collections, and implemented it practically.
+Completed Non-Generic collections including ArrayList and Hashtable, and implemented it practically.
 
 **What I will do:**
 Will learn more about it, and start learning about Generic Collections.
 
 **Issue faced:** None
 
+
+
 # 10th November, 2025
+**What I have done:**
+Started with Generic collections, and implemented it List and Dictionary practically.
+
+**What I will do:**
+Will learn and practice more in Collections.
+
+**Issue faced:** None
+
+
+# 11th November, 2025
+**What I have done:**
+Implemented Stack and Queue in Generic collections.
+
+**What I will do:**
+Will learn and practice more in Collections.
+
+**Issue faced:** None
+
+
+# 12th November, 2025
+**What I have done:**
+Implemented Hashset in Generic collections, and revised the previous studied concepts in Collections.
+
+**What I will do:**
+Will learn and practice more in Collections.
+
+**Issue faced:** None
+
+
+
+# 13th November, 2025
+**What I have done:**
+Revised all concepts of Regex, Exceptions, and Collections, and gave Review-3 to Kural Sir today.
+
+**What I will do:**
+Will practice DSA questions, to improve my problem solving ability.
+
+**Issue faced:** Encountered some errors while attempting one review question. Was able to solve by the end, with improved approach.
+
+
+# 14th November, 2025
+**What I have done:**
+Started Sorting Algorithms in DSA. Completed Merge Sort.
+
+**What I will do next:**
+Will understand the difference between Merge sort and Heap sort, as well as other sorting algorithms.
+
+**Issues faced:** None
+
+
+# 15th November, 2025
+**What I have done:**
+Completed both Searching and Sorting algorithms.
+
+**What I will do next:**
+Will practice their questions on Leetcode.
+
+**Issues faced:** None
+
+# ----EXAM LEAVE---
+
+# 27th November, 2025
+**What I have done:**
+Started with Linked List, and implemented Singly Linked List.
+
+**What I will do next:**
+Will learn about Doubly and Circular Linked List.
+
+**Issues faced:** None
