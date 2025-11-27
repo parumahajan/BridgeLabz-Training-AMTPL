@@ -130,6 +130,7 @@ I will focus more on the implementation part, and practice as much as I can.
 **Issues Faced:** 
 I faced issues while implementing the 3rd task, where I had to implement overriding and CRUD properties.
 
+
 # 6th November, 2025
 **What I have done:**
 Learnt about Regular Expressions (Regex).
@@ -138,3 +139,25 @@ Learnt about Regular Expressions (Regex).
 Implement Regex within Address Book Problem.
 
 **Issue Faced:** None
+
+
+# 7th November, 2025
+**What I have done:**
+Started with collections.
+
+**What I will do:**
+Will learn more about it, and how we can implement it practically.
+
+**Issue faced:** None
+
+
+# 8th November, 2025
+**What I have done:**
+Completed Non-Generic collections, and implemented it practically.
+
+**What I will do:**
+Will learn more about it, and start learning about Generic Collections.
+
+**Issue faced:** None
+
+# 10th November, 2025
