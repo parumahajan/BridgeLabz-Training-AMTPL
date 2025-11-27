@@ -131,7 +131,7 @@ I will focus more on the implementation part, and practice as much as I can.
 I faced issues while implementing the 3rd task, where I had to implement overriding and CRUD properties.
 
 # 6th November, 2025
-**What I have done: **
+**What I have done:**
 Learnt about Regular Expressions (Regex).
 
 **What I will do next:**
