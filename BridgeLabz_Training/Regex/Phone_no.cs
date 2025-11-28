@@ -1,7 +1,7 @@
 using System;
 using System.Text.RegularExpressions;
 
-namespace namespace BridgeLabz_Training.Regex;
+namespace BridgeLabz_Training.Regex
 {
     public class Phone_no
     {

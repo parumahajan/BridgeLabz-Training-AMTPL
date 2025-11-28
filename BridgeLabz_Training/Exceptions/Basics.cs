@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace namespace BridgeLabz_Training.Exceptions;
+namespace BridgeLabz_Training.Exceptions
 {
     public class Basics
     {

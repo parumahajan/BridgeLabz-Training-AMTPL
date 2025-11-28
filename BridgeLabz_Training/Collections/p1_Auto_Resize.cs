@@ -3,7 +3,7 @@
 using System;
 using System.Collections;
 
-namespace namespace BridgeLabz_Training.Collections;
+namespace BridgeLabz_Training.Collections
 {
     public class p1_Auto_Resize
     {

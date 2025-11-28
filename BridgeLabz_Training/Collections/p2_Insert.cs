@@ -1,7 +1,7 @@
 using System;
 using System.Collections;
 
-namespace namespace BridgeLabz_Training.Collections;
+namespace BridgeLabz_Training.Collections
 {
     internal class p2_Insert
     {

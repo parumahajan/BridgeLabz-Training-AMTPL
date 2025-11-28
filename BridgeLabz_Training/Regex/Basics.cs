@@ -2,7 +2,7 @@ using System;
 using System.Text.RegularExpressions;
 // It gives access to the .NET Regex class.
 
-namespace namespace BridgeLabz_Training.Regex;
+namespace BridgeLabz_Training.Regex
 {
     public class Basics
     {
